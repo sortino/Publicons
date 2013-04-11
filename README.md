@@ -1,6 +1,8 @@
 Publicons
 =========
 
+http://joshuasortino.com/projects/publicons
+
 A collection of finely tuned publishing platform logo icons by @joshuasortino
 
 I was sick and tired of recreating icons for publishing platforms that typically are not included in icon sets. If you see a platform that is missing, please let me know on Twitter. You're also welcome to add to this project!
